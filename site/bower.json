@@ -1,0 +1,21 @@
+{
+  "name": "site",
+  "authors": [
+    "Bruno Geronimo <hi@bruno.works>"
+  ],
+  "description": "Bruno Geronimo Website",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://bruno.works",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "https://github.com/twbs/bootstrap/tree/v4.1.1/dist",
+    "jquery": "https://code.jquery.com/jquery-3.3.1.min.js"
+  }
+}
